@@ -12,7 +12,7 @@
 <h1>Contact</h1>
 <p><b>xxxx</b></p>
 <h1>News</h1>
-•news1<br />•news2
+• news1<br />• news2
 <h1>Research Highlight</h1>
 <table border="0">
   <tr>
@@ -27,12 +27,12 @@
 </table>
 <h1>Publications(by date / by topic)</h1>
 <h2>2022</h2>
-•news1<br />•news2
+• news1<br />• news2
 <h2>2021</h2>
-•news1<br />•news2
+• news1<br />• news2
 <h1>Competitions</h1>
-•news1<br />•news2
+• news1<br />• news2
 <h1>Data & Software</h1>
-•news1<br />•news2
+• news1<br />• news2
 <h1>Honors</h1>
-•news1<br />•news2
+• news1<br />• news2
